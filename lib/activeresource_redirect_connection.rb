@@ -1,0 +1,1 @@
+require 'active_resource_redirect_connection/connection'
