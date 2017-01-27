@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   s.files = Dir['{lib}/**/*.rb', '*.md']
   s.require_path = 'lib'
 
-  s.add_runtime_dependency 'activeresource', '~> 4.1'
+  s.add_runtime_dependency 'activeresource', '~> 5.0'
 
   # s.add_development_dependency 'rspec', '~> 3.5'
   # s.add_development_dependency 'webmock', '~> 2.1'
